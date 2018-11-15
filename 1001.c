@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-//测试点8
 
 int main(){
     int a, b;
@@ -17,7 +16,7 @@ int main(){
     int t = len%3;
     for(int i = 0; i < t; i++){
         printf("%c", s[i]);
-        if(i == t-1 && len != 1){
+        if(i == t-1 && len > 3){
             printf(",");
         }
     }
