@@ -8,3 +8,4 @@
 + 1002 A+B for Polynomials
 + 1003 Emergency
 + 1004 Counting Leaves
++ 1005 Spell It Right
